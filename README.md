@@ -14,7 +14,8 @@ I'm making a little clone of that for Kuala Lumpur tech internships.
 * Enable "Report Data" functionality in case the table pisses any company off
 * Add "Apply for internship at this company" link to each row?
 * *What else? Pull Requests are welcome*
-* get a domain maybe
+* get a domain 
+* better design
 
 ## stack
 * Google Sheets as backend (reading results as JSON)

@@ -11,7 +11,8 @@ I'm making a little clone of that for Kuala Lumpur tech internships.
 * Enable "Add Your Salary" functionality (average multiple incoming salaries for a company)
 * Enable "Report Data" functionality 
 * Add "Apply" link to each row?
-* What else? Pull Requests are welcome
+* *What else? Pull Requests are welcome*
+* get a domain maybe
 
 ## stack
 * Google Sheets as backend (reading results as JSON)
